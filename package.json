@@ -1,0 +1,63 @@
+{
+  "name": "@dsojevic/profanity-list",
+  "author": "David Sojevic <david@sojevic.com> (https://www.sojevic.com/)",
+  "license": "MIT",
+  "version": "1.0.0",
+  "homepage": "https://github.com/dsojevic/profanity-list",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dsojevic/profanity-list.git"
+  },
+  "bugs": {
+    "url" : "https://github.com/dsojevic/profanity-list/issues"
+  },
+	"description": "A highly consumable list of profanities / bad words with severity ratings, exceptions, and tags.",
+  "keywords": [
+    "bad",
+    "bad words",
+    "blacklist",
+    "block",
+    "blocklist",
+    "curse",
+    "cursing",
+    "cuss",
+    "cussing",
+    "dirty words",
+    "filter",
+    "list",
+    "obscenities",
+    "obscenity",
+    "profanities",
+    "profanity",
+    "swear",
+    "swearing",
+    "vulgar",
+    "vulgarity",
+    "vulgarities",
+    "word",
+    "words"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "build": "./bin/build.js"
+  },
+  "files": [
+    "emoji.json",
+    "emoji.txt",
+    "en.json",
+    "en.txt",
+    "index.js",
+    "LICENSE",
+    "package.json",
+    "README.md"
+  ],
+  "peerDependencies": {},
+  "prettier": {
+    "printWidth": 80,
+    "semi": true,
+    "singleQuote": true,
+    "trailingComma": "es5"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}

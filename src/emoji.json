@@ -1,0 +1,42 @@
+[
+  {
+    "severity": 2,
+    "tags": ["sexual"],
+    "dictionary": [
+      {
+        "id": "emoji-climaxing",
+        "match": "🍆💦*|🤩🍆💦*|🍆🍑💦*|🍆👅💦*"
+      },
+      {
+        "id": "emoji-cockring",
+        "match": "🐓💍"
+      },
+      {
+        "id": "emoji-fingering",
+        "match": "👉🌮"
+      },
+      {
+        "id": "emoji-masturbate",
+        "match": "✊🍆|✊🍆💦*|✊🍌|✊🍌💦*|🍆👋💦*"
+      },
+      {
+        "id": "emoji-sex",
+        "match": "👉👌|👌👈"
+      },
+      {
+        "id": "emoji-touch-boobs",
+        "match": "👐🍅🍅"
+      }
+    ]
+  },
+  {
+    "severity": 2,
+    "tags": ["general"],
+    "dictionary": [
+      {
+        "id": "emoji-middlefinger",
+        "match": "🖕|​🖕​🤬​|​🖕​🤬​🖕​|🤬​🖕"
+      }
+    ]
+  }
+]
